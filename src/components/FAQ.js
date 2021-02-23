@@ -3,7 +3,7 @@ import '../App.css';
 function FAQ() {
   return (
     <div className="FAQ">
-      Frecuently Answers & Questions
+      Frecuently Asked Questions
     </div>
   );
 }
