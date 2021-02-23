@@ -4,7 +4,7 @@ import About from './components/About'
 import FAQ from './components/FAQ'
 import Store from './components/Store'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link
